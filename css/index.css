@@ -1,10 +1,10 @@
 .head{
-	width: 100%;
 	text-align:center;
-	background:#00aa00;
-	position: absolute;
+	/*background:#00aa00;*/
+	/*position: absolute;
     top: 0px;
-	left:0px;
+	left:0px;*/
+	margin-top :1em;
 }
 #logo{
 	position: absolute;
